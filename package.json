@@ -1,0 +1,26 @@
+{
+  "name": "first_module",
+  "version": "1.0.0",
+  "description": "practicing exporting modules",
+  "main": "First.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsJustChewbacca/W1D5.git"
+  },
+  "keywords": [
+    "exporting",
+    "modules"
+  ],
+  "author": "Luke Grossmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsJustChewbacca/W1D5/issues"
+  },
+  "homepage": "https://github.com/ItsJustChewbacca/W1D5#readme",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
